@@ -7,5 +7,15 @@ Student Media House, Fifth Floor Br. Connon Hall, De La Salle University, 2401 T
 
 Manila, Philippines
 
-## 👨‍💻 For developers
-This is the official GitHub organization page of **The LaSallian**, which stores repositories of all the previous and current projects handled by its **Web** section
+## 👨‍💻 For developers, by developers
+This is the official GitHub organization page of **The LaSallian**, which stores repositories of all the previous and current projects handled by its **Web** section.
+
+## 📞 Contact us
+| Name                  | Position                       | Email | Handle |
+|-----------------------|--------------------------------|-------|--------|
+| Eloisa Libago         | Web Editor/Project Manager     |       | N/A    |
+| Rafael Gabriel Arceo  | Web Consultant/Web Developer   |       | @      |
+| Ramon Enrico Martinez | Assistant Editor/Web Developer |       | @      |
+| Caryll Joyce Ong      | Assistant Editor               |       | @      |
+
+For partnerships, contact me@thelasallian.com. Inquiries at info@thelasallian.com
