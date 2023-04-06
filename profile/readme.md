@@ -13,7 +13,7 @@ This is the official GitHub organization page of **The LaSallian**, which stores
 ## 📞 Contact us
 | Name                  | Position                       | Email | Handle |
 |-----------------------|--------------------------------|-------|--------|
-| Eloisa Libago         | Web Editor/Project Manager     |       | N/A    |
+| Eloisa Limbago        | Web Editor/Project Manager     |       | N/A    |
 | Rafael Gabriel Arceo  | Web Consultant/Web Developer   |       | @      |
 | Ramon Enrico Martinez | Assistant Editor/Web Developer |       | @      |
 | Caryll Joyce Ong      | Assistant Editor               |       | @      |
