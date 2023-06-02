@@ -11,8 +11,8 @@ This is the official GitHub organization page of **The LaSallian**, which stores
 ## 📞 Contact us
 | Name                  | Position                       | Email | Handle |
 |-----------------------|--------------------------------|-------|--------|
-| Eloisa Limbago        | Web Editor/Project Manager     |       | N/A    |
-| Rafael Gabriel Arceo  | Web Consultant/Web Developer   |       | @      |
-| Ramon Enrico Martinez | Assistant Editor/Web Developer |       | @      |
+| Eloisa Limbago        | Web Editor/Project Manager     | eloi_limbago@dlsu.edu.ph | N/A    |
+| Rafael Gabriel Arceo  | Web Consultant/Web Developer   | rafael_gabriel_arceo@dlsu.edu.ph | @      |
+| Ramon Enrico Martinez | Assistant Editor/Web Developer | ramon_martinez@dlsu.edu.ph | @      |
 
 For partnerships, contact me@thelasallian.com. Inquiries at info@thelasallian.com
