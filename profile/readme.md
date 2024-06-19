@@ -12,7 +12,6 @@ This is the official GitHub organization page of **The LaSallian**, which stores
 | Name                  | Position                       | Email                                          | Handle       |
 |-----------------------|--------------------------------|------------------------------------------------|--------------|
 | Ramon Enrico Martinez       | Web Editor/Project Manager     |admin@thelasallian.com / ramon_martinez@dlsu.edu.ph| @raymrtinz          |
-| Patrick James Marcellana | Assistant Editor/Web Developer |patrick_james_marcellana@dlsu.edu.ph                      |@patrickjamesmarcellana    |
 | Rafael Gabriel Arceo  | Web Consultant/Web Developer   |rafael_gabriel_arceo@dlsu.edu.ph                | @rafgabarceo |
 
 For partnerships, contact me@thelasallian.com. Inquiries at info@thelasallian.com
